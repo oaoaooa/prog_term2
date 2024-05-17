@@ -17,7 +17,7 @@
 
 [Лабораторная №5](https://docs.google.com/document/d/1GQW0KQhiWMrRIaTlvodXwS7PwKttyUIO1cdCIH__0S8/edit?usp=sharing)
 
-[Лабораторная №6]() // тут пока пусто
+[Лабораторная №6](https://docs.google.com/document/d/1OX-k9fKvlXHXWq3P_5pNSgXn88qwS7mx4885MgKosqU/edit?usp=sharing)
 
 [Лабораторная №7]() // тут пока пусто
 
