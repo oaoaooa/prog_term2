@@ -15,7 +15,7 @@
 
 ## Отчеты
 
-[Лабораторная №5]() // тут пока пусто
+[Лабораторная №5](https://docs.google.com/document/d/1GQW0KQhiWMrRIaTlvodXwS7PwKttyUIO1cdCIH__0S8/edit?usp=sharing)
 
 [Лабораторная №6]() // тут пока пусто
 
